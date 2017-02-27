@@ -1,0 +1,256 @@
+h1{
+color: #25415f;
+text-align: center;
+font-family: 'Handlee', cursive;
+
+}
+
+.page-header{
+	margin-top: -20px;
+	padding-top: 20px;
+	background-image: url("http://www.designbolts.com/wp-content/uploads/2013/02/Rose-Grey-Seamless-Patterns-For-Website-Background.jpg")
+}
+
+nav {
+padding-top: 0px;
+margin-top: -21px;
+}
+
+.middleofnavbar{
+align-content: center;
+}
+
+.topheader{
+padding-top: 40px;
+}
+.props{
+margin-left: 100px;
+}
+
+li {
+	margin-left: 10px;
+}
+
+.navbar-nav{
+	margin-left: 320px;
+}
+
+.navbar-brand{
+background-color: rgb(83,177,167);
+}
+.props{
+	color: white;
+}
+
+.windowson{
+	color: white;
+}
+.rightthere{
+	margin-left: 20px;
+}
+
+.mainphoto{
+	margin-top: -21px;
+	margin-left: -20px;
+	position: relative;
+}
+
+.radarphoto{
+	margin-top: -21px;
+	margin-left: 41px;
+width: 95%;
+height: 373px;
+}
+
+
+.transbox{
+	position: relative;
+
+width: 850px;
+height: 100%;
+margin-left: auto;
+margin-right: auto;
+top:-200px;
+background: rgb(204,204,204);
+background: rgba(4,4,4,0.8);
+}
+.textoverbigimage{
+	color:white;
+	font-weight: bold;
+	text-align: center;
+}
+
+.thisisthefirstbutton{
+	position: absolute; 
+	margin-top: -220px;
+	margin-left: 640px;
+}
+
+.transboxarader{
+	position: relative;
+	padding: 20px;
+
+width: 250px;
+height: 100%;
+margin-left: auto;
+margin-right: auto;
+padding: 15px;
+top:-200px;
+background: rgb(204,204,204);
+background: rgba(333,333,333,0.9);
+
+}
+
+.thesmallerbuttonradar{
+	position: absolute;
+	padding: 5px 20px;
+	top: 48%;
+	left: 60%;
+}
+
+.firstfourrow{
+	margin-top: -82px;
+}
+.alignItLeft{
+	margin-top: 100px;
+	text-align: left;
+	margin-left: 60px;
+	color: skyblue;
+	font-weight: bold;
+}
+
+.alignItLeft small{
+	color: black;
+}
+
+.thefirstportionoftext{
+	height: 350px;
+	width: 320px;
+	padding: 0px;
+	margin: 0px;
+	margin-left: -20px;
+	text-align: center;
+}
+
+.secondrowofpicsNStuff{
+	margin-top: -105px;
+}
+
+
+.alignthistextWHYBOOK{
+text-align: center;
+line-height: 21pt;
+margin-top: 50px;
+max-width: 590px;
+padding-left: 20px;
+margin-left: 50px;
+}
+
+.thiscontaieroverlapped{
+	padding-top: 3px;
+margin-left: -18px;}
+
+
+.spacingitoutWHYBOOK{
+	padding: 0px 10px;
+}
+
+.HERE{
+	margin-left: 18px;
+}
+
+.buttontowhitebackground{
+	color: skyblue;
+	font-weight: bolder;
+	background-color: white;
+}
+
+ div img {
+	width: 116%;
+	height: 130%;
+	background-size: cover;
+}
+.col-sm-3 h3{
+	margin-top: 50px;
+	font-weight: bold;
+	margin-left: 140px;
+}
+
+.asSeenOnImage img{
+	width: 80%;
+	height:190%;
+	display: block;
+margin: auto;
+position: absolute;
+margin-left: 60px;
+
+}
+
+.ineedhelp{
+	margin-left: auto;
+	margin-right: auto;
+	margin-right: -10px;
+}
+
+.letsMakeThisBlue{
+	background-color: rgb(105,211,189);
+	height: 24.8em;
+	width: 25.3%;
+	margin-left: 40px;
+	margin-right: -50px;
+}
+
+.letsMakeThisBlue p {
+
+text-align: center;
+margin-top: 20px;
+color:white;
+font-weight: bold;
+}
+
+.letsMakeThisBlue big {
+	font-size: 50px;
+}
+
+.bottomButtonForGuestReviews{
+	color: white;
+	font-weight: bolder;
+	background-color: skyblue;
+	border-style: solid;
+	border-color: black;
+}
+
+.bottomsrow{
+	margin-top: -10px;
+}
+
+.speakWithourExperts{
+	text-align: center;
+}
+
+
+footer h4{
+	float: right;
+	color:white;
+}
+footer p{
+	margin-top: 9px;
+	font-size: .7em;
+	color: black;
+	max-width: 80%;
+background-color: rgb(222,228,230);
+float: left;
+margin-left: -170px;
+}
+
+footer{
+	
+width: 100%;
+background-image: url(http://www.publicdomainpictures.net/pictures/150000/velka/gray-grainy-seamless-background.jpg);
+
+}
+
+.col-sm-3 {
+	width: 300px;
+	height: 300px;
+}
